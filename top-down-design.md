@@ -1,7 +1,7 @@
 # Making a sandwich
 
 
-1 Prepare sandwich-making area  
+```1 Prepare sandwich-making area  
   1.1 Find clear flat surface  
   1.2 get knife  
     1.2.1 open silverware drawer  
@@ -46,3 +46,4 @@
       3.3.2.1 take knife in hand  
     3.3.3 spread mayo on empty bread slice  
   3.4 put second piece of bread on top  
+```
