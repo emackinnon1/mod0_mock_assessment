@@ -1,7 +1,8 @@
 # Making a sandwich
 
 
-```1 Prepare sandwich-making area  
+```
+1 Prepare sandwich-making area  
   1.1 Find clear flat surface  
   1.2 get knife  
     1.2.1 open silverware drawer  
